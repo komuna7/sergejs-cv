@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23",
- "scanned": 1192,
+ "updated": "2026-11-24",
+ "scanned": 1235,
  "jobs": [
   {
    "id": "261028-50",
@@ -171,6 +171,18 @@
    "strong": true
   },
   {
+   "id": "261123-173",
+   "title": "Remontstrādnieks",
+   "reg": "90000024455",
+   "place": "Skolas iela 2, Ikšķile, Ogres nov.",
+   "from": 810.0,
+   "to": 810.0,
+   "deadline": "2026-12-30",
+   "load": "Viena vesela slodze",
+   "url": "https://cvvp.nva.gov.lv/#/pub/vakances/470858868",
+   "strong": true
+  },
+  {
    "id": "261021-9",
    "title": "Santehniķis",
    "reg": "40003619950",
@@ -180,6 +192,18 @@
    "deadline": "2026-12-30",
    "load": "Viena vesela slodze",
    "url": "https://cvvp.nva.gov.lv/#/pub/vakances/467055256",
+   "strong": true
+  },
+  {
+   "id": "261123-167",
+   "title": "Tehniskais strādnieks",
+   "reg": "90000082152",
+   "place": "Klintslejas 4, Murjāņi, Sējas pag., Saulkrastu nov.",
+   "from": 800.0,
+   "to": 820.0,
+   "deadline": "2026-12-30",
+   "load": "Viena vesela slodze",
+   "url": "https://cvvp.nva.gov.lv/#/pub/vakances/470854156",
    "strong": true
   },
   {
@@ -216,6 +240,18 @@
    "deadline": "2026-11-30",
    "load": "Viena vesela slodze",
    "url": "https://cvvp.nva.gov.lv/#/pub/vakances/468089183",
+   "strong": false
+  },
+  {
+   "id": "261124-138",
+   "title": "Labiekārtošanas strādnieks",
+   "reg": "90000048472",
+   "place": "Stacijas iela 7, Carnikava, Ādažu nov.",
+   "from": 1454.0,
+   "to": 1454.0,
+   "deadline": "2026-12-04",
+   "load": "Viena vesela slodze",
+   "url": "https://cvvp.nva.gov.lv/#/pub/vakances/470982676",
    "strong": false
   },
   {
