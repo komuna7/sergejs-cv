@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24",
- "scanned": 1235,
+ "updated": "2026-11-25",
+ "scanned": 1240,
  "jobs": [
   {
    "id": "261028-50",
@@ -168,6 +168,18 @@
    "deadline": "2026-12-23",
    "load": "Viena vesela slodze",
    "url": "https://cvvp.nva.gov.lv/#/pub/vakances/470808008",
+   "strong": true
+  },
+  {
+   "id": "261125-106",
+   "title": "Remontstrādnieks",
+   "reg": "40900010063",
+   "place": "Firsa Sadovņikova iela 20A, Rīga",
+   "from": 390.0,
+   "to": 390.0,
+   "deadline": "2026-12-30",
+   "load": "Nepilna slodze",
+   "url": "https://cvvp.nva.gov.lv/#/pub/vakances/471097257",
    "strong": true
   },
   {
