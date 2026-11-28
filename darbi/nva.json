@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26",
- "scanned": 1262,
+ "updated": "2026-11-27",
+ "scanned": 1248,
  "jobs": [
   {
    "id": "261028-50",
@@ -144,6 +144,18 @@
    "deadline": "2026-12-19",
    "load": "Viena vesela slodze",
    "url": "https://cvvp.nva.gov.lv/#/pub/vakances/470536970",
+   "strong": true
+  },
+  {
+   "id": "261127-17",
+   "title": "Tehniskais strādnieks",
+   "reg": "90009202807",
+   "place": "Sudrabu Edžus iela 11A, Rīga",
+   "from": 780.0,
+   "to": 785.0,
+   "deadline": "2026-12-20",
+   "load": "Viena vesela slodze",
+   "url": "https://cvvp.nva.gov.lv/#/pub/vakances/471289173",
    "strong": true
   },
   {
